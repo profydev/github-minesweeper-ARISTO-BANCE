@@ -1,3 +1,7 @@
 {
-  "commands": []
+  "commands": [" clear A8 "]
 }
+git add  .
+git status 
+git commit -m "clear A8 "
+git push origim move -1-1
